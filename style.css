@@ -277,6 +277,9 @@ iframe {
   textarea {
     margin-left: 20px;
   }
+  iframe {
+    margin-left: 80px;
+  }
 }
 @media screen and (min-width: 360px) and (max-width: 766px) {
   .topRed {
@@ -327,5 +330,8 @@ iframe {
   }
   .handmade div i {
     display: none;
+  }
+  iframe {
+    margin-left: 20px;
   }
 }
